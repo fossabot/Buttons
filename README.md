@@ -1,6 +1,7 @@
 # Buttons 2.0
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/unicornuirocks.svg)](https://saucelabs.com/u/unicornuirocks)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FButtons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FButtons?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/alexwolfe/Buttons.svg?branch=buttons-2)](https://travis-ci.org/alexwolfe/Buttons)
 
@@ -101,3 +102,7 @@ Buttons works in all modern browsers (Firefox, Chrome, Safari, IE) and gracefull
 
 ## About Buttons
 Buttons is part of the [Unicorn-UI Framework](http://unicorn-ui.com). Created by Alex Wolfe [@alexwolfe](https://twitter.com/alexwolfe) and Rob Levin [@roblevintennis ](https://twitter.com/roblevintennis).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FButtons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FButtons?ref=badge_large)
